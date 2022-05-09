@@ -17,8 +17,6 @@ class MainWindow(QMainWindow):
         self.initUI()
 
     def initUI(self):
-        refresh_date()
-
         self.move(600, 400)
         self.resize(WINDOW_WIDTH, WINDOW_HEIGHT)
 
