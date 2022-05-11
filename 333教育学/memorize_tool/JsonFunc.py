@@ -16,8 +16,8 @@ def refresh_date():
     else:
         main_data_json["cur_time"] += 1
         main_data_json["date_time_dict"][today] = main_data_json["cur_time"]
-        print(main_data_json)
-        print(type(main_data_json))
+        # print(main_data_json)
+        # print(type(main_data_json))
         json.dump(main_data_json, open("data\\main_data.json", 'w', encoding='utf-8'), ensure_ascii=False)
         # ensure_ascii 默认为True，这样写入的就会是unicode码
 
