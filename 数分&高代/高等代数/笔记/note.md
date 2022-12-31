@@ -256,3 +256,6 @@ $$
 设数域$\mathbb{K}$上的$s\times n$矩阵$\mathbf{A}$的秩为$r$,那么$\mathbf{A}$相抵于$\begin{pmatrix}\mathbf{I}_r& 0\\0&0\end{pmatrix}$，其被称为相抵标准型
 
 设数域$\mathbb{K}$上的$s\times n$矩阵$\mathbf{A}$的秩为$r$,则存在$\mathbb{K}$上的$s$级，$n$级可逆矩阵$\mathbf{P},\mathbf{Q}$，使得$\mathbf{A}=\mathbf{P}\begin{pmatrix}\mathbf{I}_r& 0\\0&0\end{pmatrix}\mathbf{Q}$
+
+### 5.3 广义逆矩阵
+

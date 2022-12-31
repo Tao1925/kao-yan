@@ -23,3 +23,10 @@
 ###  告示
 
 基本信息+活动内容+邀请
+
+## My template
+
+time: from 10 a.m to 3 p.m on May 27th
+
+invite: 
+
